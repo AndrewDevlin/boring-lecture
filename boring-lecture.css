@@ -3,3 +3,13 @@
   font-size: 22px;
   text-decoration-style: wavy;
 }
+
+.party{
+  color: red;
+  font-family: cursive;
+}
+
+.cool{
+  color: blue;
+  font-style: italic;
+}
